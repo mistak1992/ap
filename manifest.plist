@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://218.4.57.4:19011/app/ceshi.ipa</string>
+					<string>http://68.168.133.245/coucou.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.app.hangfengjianguan</string>
+				<string>cn.com.coucouforest</string>
 				<key>bundle-version</key>
-				<string>3.0</string>
+				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>行风监管</string>
+				<string>凑凑森林</string>
 			</dict>
 		</dict>
 	</array>
