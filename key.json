@@ -1,1 +1,9 @@
-{"isPaid":true}
+{
+  "status": 200,
+  "msg": "SUCCESS",
+  "total": 0,
+  "bean":{
+    "isPaid":true
+  }
+}
+
