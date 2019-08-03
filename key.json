@@ -3,7 +3,8 @@
   "msg": "SUCCESS",
   "total": 0,
   "bean":{
-    "isPaid":true
+    "isPaid":true,
+    "serverBaseURL":"http://api.blockforest.online/"
   }
 }
 
