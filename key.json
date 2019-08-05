@@ -4,7 +4,7 @@
   "total": 0,
   "bean":{
     "isPaid":true,
-    "serverBaseURL":"http://47.106.208.82:8084/"
+    "serverBaseURL":"http://api.blockforest.online/"
   }
 }
 
